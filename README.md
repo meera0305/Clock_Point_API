@@ -24,5 +24,5 @@ This project is created for practice and learning API development.
 ## 📌 Endpoints  
 
 ### 1. Get Current Time  
-```http
+```http   
 GET /api/time
